@@ -1,12 +1,4 @@
-## Hi there 👋
+# Valley Church
+## Creating a Home to Empower a New Generation
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With a call from Psalm 78, Senior Pastors Ed & Michele Carter launched Valley Church in April 2007. Our desire is to empower you to fulfil all that God has for you and called you to be. We believe that Church should be a home for everyone, no matter who they are or where they've come from. We long to empower the new generation to continually direct the future of the Church.
